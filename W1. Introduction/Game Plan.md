@@ -2,7 +2,7 @@
 
 ### Before the Session
 
-From the [list of projects](https://github.com/cornell-colab/SGFDH-2021/blob/main/W1-Introduction/List%20of%20Projects.md), choose  
+From the [list of projects](https://github.com/cornell-colab/SGFDH-2022/blob/main/W1.%20Introduction/List%20of%20Projects.md), choose  
 (a) one or two of the large Team Projects, and  
 (b) one or two of the projects created by students (many of them Summer Fellow Alums).
 
