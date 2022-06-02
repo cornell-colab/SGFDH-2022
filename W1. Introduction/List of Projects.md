@@ -30,7 +30,7 @@ Manolis Patinioti, Eirini Goudarouli, & Vassilis Routisis
 M. Cristina Pattuelli, Matt Miller, & Team
 
  
-### Primary Sources & Digital Publishing
+### Digital Collections, Digital Exhibits, & Digital Publishing
  
 * [Colored Conventions Project](https://coloredconventions.org/)  
 P. Gabreille Foreman, Jim Casey, & Team
