@@ -98,14 +98,12 @@ Lindsay King, Peter Leonard, & Team
 
 ### Mapping
 
-* [Communal Currents: Visualizing Historical Connections](https://communalcurrents.org/)  
-Molly Reed (Cornell History)
+* [Electrical Metaphors, 1788 - 1798](https://sswesner.carto.com/builder/03c00f41-0abb-496b-bb41-411d83cd566c/embed)  
+Sam Wesner (Cornell History)  
+Maps the use of metaphorical language about electicity in writings about the French Revolution over time and space. 
 
 * [Virtual Cartographies: Visualizing Mass Grave Recovery in Contemporary Spain](http://virtualcartographies.com/index.html)  
 Wendy Perla Kurtz (UCLA Spanish and Portuguese)
-
-* [The Mail Map](http://www.christypottroff.com/page-dh)  
-Christy Pottroff (Fordham English)
 
 * [Mapping Mobility: Spatial and Class Change in the Gilded Age Wall Street Workforce](https://gscho.net/scalar/mapping-clerks/index)  
 Atiba Pertilla
@@ -129,7 +127,7 @@ Jim Casey (University of Delaware English)
 
 ### Digital Collections, Digital Exhibits, Digital Publishing
 
-* [Revisualize Archives: Visualizing Joy in 19th-century Studio Portraiture](http://revisualizearchives.com/)
+* [Revisualize Archives: Visualizing Joy in 19th-century Studio Portraiture](http://revisualizearchives.com/)  
 Victoria Baugh, (Cornell Literatures in English)
 
 * [Periodical Poets](http://periodicalpoets.com/)  
