@@ -1,24 +1,6 @@
 ## Team Projects
 
-### Maps & Geospatial Data
- 
-* [Mapping the Gay Guides: Visualizing Queer Space and American Life](https://www.mappingthegayguides.org/)  
-Amanda Regan, Eric Gonzaba, & Team
- 
-* [Mapping the Second Ku Klux Klan, 1915-1940](https://labs.library.vcu.edu/klan/)  
-Team at Virginia Commonwealth University Library  
- 
-* [Mapping Prejudice: Racial Covenants and 20th Century Minneapolis](https://www.mappingprejudice.org/)  
-Kirsten Delegard and Teams at Augsburg University and University of Minnesota
 
-* [Anti-Eviction Mapping Project](https://antievictionmap.com/)  
-Volunteer collective of scholars and organizers
-
-* [Torn Apart / Separados Vol. 1](http://xpmethod.plaintext.in/torn-apart/volume/1/) & [Torn Apart / Separados Vol. 2](http://xpmethod.plaintext.in/torn-apart/volume/2/index)  
-Alex Gil, Roopika Risam, Manan Ahmed, Maira Alvarez, et.al. 
-
-* [ORBIS: The Stanford Geospatial Network Model of the Roman World](http://orbis.stanford.edu/)  
-Walter Scheidel & Elijah Meeks
 
 
 ### Networks
@@ -51,8 +33,8 @@ Amardeep Singh & Students
 David Eltis, Martin Halbert, & Team  
 See Also: [The Atlantic Slave Trade in Two Minutes](http://www.slate.com/articles/life/the_history_of_american_slavery/2015/06/animated_interactive_of_the_history_of_the_atlantic_slave_trade.html)(A data visualization created by data journalist Andrew Kahn, using the scholarly database as a source.)
 
-* [Digital Harlem: Everyday Life 1915-1930](http://digitalharlem.org/)  
-Team at University of Sydney
+* [Mapping the Gay Guides: Visualizing Queer Space and American Life](https://www.mappingthegayguides.org/)  
+Amanda Regan, Eric Gonzaba, & Team
 
 * [Investigating Indentured Servitude](https://diglib.amphilsoc.org/indenturedata/)  
 Team at the American Philosophical Society 
@@ -63,12 +45,26 @@ Ed Baptist & Team
 
 * [Shakespeare and Company: Recreating the world of the Lost Generation in interwar Paris](https://shakespeareandco.princeton.edu/)  
 Joshua Kotin, Rebecca Sutton Koeser, & Team
+
+### Maps & Geospatial Data
+ 
+* [Mapping the Second Ku Klux Klan, 1915-1940](https://labs.library.vcu.edu/klan/)  
+Team at Virginia Commonwealth University Library  
+ 
+* [Mapping Prejudice: Racial Covenants and 20th Century Minneapolis](https://www.mappingprejudice.org/)  
+Kirsten Delegard and Teams at Augsburg University and University of Minnesota
+
+* [Anti-Eviction Mapping Project](https://antievictionmap.com/)  
+Volunteer collective of scholars and organizers
+
+* [ORBIS: The Stanford Geospatial Network Model of the Roman World](http://orbis.stanford.edu/)  
+Walter Scheidel & Elijah Meeks
  
 ### Text 
  
 * [The Goodreads "Classics": A Computational Study of Readers, Amazon, and Crowdsourced Amateur Criticism](https://post45.org/2021/04/the-goodreads-classics-a-computational-study-of-readers-amazon-and-crowdsourced-amateur-criticism/)  
 Melanie Walsh & Maria Antoniak  
-(This one is a little different from the rest, as it's actually a peer-reviewed academic article. With interactive visualizations.)
+(This one is a little different from the rest, as it's actually a peer-reviewed academic article illustrated with interactive visualizations, rather than a standalone project.)
 
 * [Textual Geographies](https://txtgeo.net/)  
 Matthew Wilkens & Team
@@ -96,11 +92,15 @@ Lindsay King, Peter Leonard, & Team
 
 ## Student-led Projects
 
-### Mapping
+
+### Datasets: Creating, Analyzing, Visualizing, Mapping
+
+* [Global Poetics](https://globalpoetics.org/)  
+Ama Bemma Adwetewa-Badu (Cornell Literatures in English)  
 
 * [Electrical Metaphors, 1788 - 1798](https://sswesner.carto.com/builder/03c00f41-0abb-496b-bb41-411d83cd566c/embed)  
 Sam Wesner (Cornell History)  
-Maps the use of metaphorical language about electicity in writings about the French Revolution over time and space. 
+(visualizes the use of metaphorical language about electicity in writings about the French Revolution over time and space.) 
 
 * [Virtual Cartographies: Visualizing Mass Grave Recovery in Contemporary Spain](http://virtualcartographies.com/index.html)  
 Wendy Perla Kurtz (UCLA Spanish and Portuguese)
@@ -109,16 +109,8 @@ Wendy Perla Kurtz (UCLA Spanish and Portuguese)
 Atiba Pertilla
 (If you can't view the embedded maps, click on the "Source File" links.)
 
-* [John Mandeville and the Hereford Map](http://historiacartarum.org/john-mandeville-and-the-hereford-map-2/what-are-you/)  
-John Wyatt Greenlee (Cornell Medieval Studies)
-
 * [Brooklyn Anthems Atlas](https://cornellcolab.net/BrooklynAnthemsAtlas/neatline/fullscreen/brooklyn-anthems-atlas)  
-Avi Simon (Cornell undergrad)
-
-### Databases
-
-* [Global Poetics](https://globalpoetics.org/)  
-Ama Bemma Adwetewa-Badu (Cornell Literatures in English)
+Avi Simon (Cornell undergrad)  
 
 ### Networks
 
@@ -128,10 +120,7 @@ Jim Casey (University of Delaware English)
 ### Digital Collections, Digital Exhibits, Digital Publishing
 
 * [Revisualize Archives: Visualizing Joy in 19th-century Studio Portraiture](http://revisualizearchives.com/)  
-Victoria Baugh, (Cornell Literatures in English)
-
-* [Periodical Poets](http://periodicalpoets.com/)  
-Charline Jao (Cornell Literatures in English)
+Victoria Baugh, (Cornell Literatures in English)  
 
 * [East Bay Punk Digital Archive](https://eastbaypunkda.com/s/east-bay-punk-digital-archive/page/home)  
 Stefano Merello (CUNY - Graduate Center)
