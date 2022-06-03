@@ -13,12 +13,12 @@ From the [list of projects](https://github.com/cornell-colab/SGFDH-2022/blob/mai
  
 #### A few questions you might want to consider:
 * Who is the intended audience? Scholarly researchers, students, general public, a combination?  
-* Is the project primarily meant as a secondary source: the presentation of original research, much like an analog book or article? Or is it meant to be used as primary material for others’ research or creative work? Or is it some combination of these two types?  
-* How might the digital aspect of project be used to generate new research questions -- or answers? For the project's creator? For other researchers or students?
+* Is the project primarily meant as a secondary source -- the presentation of original research, much like an analog book or article? Or is it meant to be used as primary material for others’ research or creative work? Or is it some combination of these two types?  
+* How might the digital aspect(s) of project be used to generate new research questions -- or answers? 
 * Can you identify the source of the project's underlying data? How was it created or where did it come from?  
-* How was the data processed or analyzed? What choices did the project's creator(s) make? Can you identify the tools used to process or analyze the data?
+* How was the data processed or analyzed? Can you identify the tools used to process or analyze the data?
 * How has the data been *presented*? What storytelling choices did the creator(s) make? Can you identify the platform or tools used to create the presenting website?
-* Are the project’s creator(s) writing (or have they already written) published works derived from or as accompaniments to their digital project?
+* Are the project’s creator(s) writing (or have they already written) published works derived from or as accompaniments to their digital project? Look them over.
 * Do the creators offer their data or code for reuse by others?  
 * In what ways do find the project successful or unsuccessful?
 * What are your questions?
