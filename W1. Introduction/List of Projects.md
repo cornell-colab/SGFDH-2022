@@ -1,31 +1,4 @@
-## Team Projects
-
-
-
-
-### Networks
- 
-* [Mapping the Enlightenment: Intellectual Networks and the Making of Knowledge in European Periphery](https://mapping-the-enlightenment.org/)  
-Manolis Patinioti, Eirini Goudarouli, & Vassilis Routisis
-
-* [Linked Jazz](https://linkedjazz.org/)  
-M. Cristina Pattuelli, Matt Miller, & Team
-
- 
-### Digital Collections, Digital Exhibits, & Digital Publishing
- 
-* [Colored Conventions Project](https://coloredconventions.org/)  
-P. Gabreille Foreman, Jim Casey, & Team
-
-* [Plant Humanities Lab](https://lab.plant-humanities.org/)  
-Team at Dumbarton Oaks Research Library and Collections
-
-* [The Chinese Deathscape: Grave Reform in Modern China](http://chinesedeathscape.org/)  
-Thomas Mullaney & Team
-
-* [Claude McKays Early Poetry 1911-1922; A Digital Collection](https://scalar.lehigh.edu/mckay/index)  
-Amardeep Singh & Students
-
+## Large Team-based Projects
 
 ### Datasets & Databases: Creating, Analyzing, Visualizing 
 
@@ -60,6 +33,32 @@ Volunteer collective of scholars and organizers
 * [ORBIS: The Stanford Geospatial Network Model of the Roman World](http://orbis.stanford.edu/)  
 Walter Scheidel & Elijah Meeks
  
+
+### Networks
+ 
+* [Mapping the Enlightenment: Intellectual Networks and the Making of Knowledge in European Periphery](https://mapping-the-enlightenment.org/)  
+Manolis Patinioti, Eirini Goudarouli, & Vassilis Routisis
+
+* [Linked Jazz](https://linkedjazz.org/)  
+M. Cristina Pattuelli, Matt Miller, & Team
+
+ 
+### Digital Collections, Digital Exhibits, & Digital Publishing
+ 
+* [Colored Conventions Project](https://coloredconventions.org/)  
+P. Gabreille Foreman, Jim Casey, & Team
+
+* [Plant Humanities Lab](https://lab.plant-humanities.org/)  
+Team at Dumbarton Oaks Research Library and Collections
+
+* [The Chinese Deathscape: Grave Reform in Modern China](http://chinesedeathscape.org/)  
+Thomas Mullaney & Team
+
+* [Claude McKays Early Poetry 1911-1922; A Digital Collection](https://scalar.lehigh.edu/mckay/index)  
+Amardeep Singh & Students
+
+
+
 ### Text 
  
 * [The Goodreads "Classics": A Computational Study of Readers, Amazon, and Crowdsourced Amateur Criticism](https://post45.org/2021/04/the-goodreads-classics-a-computational-study-of-readers-amazon-and-crowdsourced-amateur-criticism/)  
