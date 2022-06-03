@@ -1,6 +1,6 @@
 # A Brief Guide to Common Publishing Platforms for Scholarly Work  
   
-### [Scalar](https://scalar.me/anvc/scalar/)
+### 1. [Scalar](https://scalar.me/anvc/scalar/)
 [User’s Guide/Documentation](https://scalar.usc.edu/works/guide2/index)  
 * Best foor digital narratives with multiple pages and chapters
 
@@ -13,7 +13,7 @@ Examples:
 This site, unlike the other Scalar examples, is primarily image-based. Note the use of tags and multiple pathways through the exhibit.  
 
 
-### [Omeka Classic](https://omeka.org/classic/) 
+### 2. [Omeka Classic](https://omeka.org/classic/) 
 
 [User Manual / Documentation](https://omeka.org/classic/docs/)  
 
@@ -33,7 +33,7 @@ Note that you can browse the entire collection of all the digital items via the 
 * [Japanese Modernism Across Media](https://ds-omeka.haverford.edu/japanesemodernism/home) (Students of Bryn Mawr & Haverford Colleges)
 
 
-### [Juncture](https://juncture-digital.org/)  
+### 3. [Juncture](https://juncture-digital.org/)  
  
 * Best for illustrated digital essays  
 * Quite new 
@@ -43,8 +43,7 @@ For documentation, hosting information, and examples, see the link above.
 **Owner/Developer**: Ithaka S+R, a think tank for technology, academia, and research
 
 
-
-### [Wordpress](https://wordpress.org/)
+### 4. [Wordpress](https://wordpress.org/)
 [User Manual / Documentation](https://wordpress.org/support/)  
 
 •	A general-purpose open-source content management system (CMS) used by many different types of websites.  
@@ -57,7 +56,7 @@ For documentation, hosting information, and examples, see the link above.
 * [Parthian Sources](https://parthiansources.com/) (Jake Nabel)  
 * [Global Poetics Project](https://angelenosincarcerated.org/) (Ama Bemma Adwetewa-Badu)  
 
-### [Jekyll](https://jekyllrb.com/)
+### 5. [Jekyll](https://jekyllrb.com/)
 **Documentation:** [Building a static website with Jekyll and GitHub Pages](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages), by Amanda Visconti, in _The Programming Historian._  
 
 * Best if you want a very minimalist option that is easy on bandwidth, cheap, and easy to maintain
@@ -77,7 +76,7 @@ These two sites are built using a special flavor of Jekyll for managing digital 
 * [Black Solidarity Day](https://nyu-dss.github.io/black-solidarity-day/) (Staff at Columbia University Libraries)  
 * [Style Revolution 1797-1804](https://stylerevolution.github.io/) (Team at Columbia University)  
 
-### Weebly / Wix / Squarespace
+### 6. Weebly / Wix / Squarespace
 
 Commercial site-building companies
 
