@@ -12,8 +12,7 @@ Amanda Regan, Eric Gonzaba, & Team
 * [Investigating Indentured Servitude](https://diglib.amphilsoc.org/indenturedata/)  
 Team at the American Philosophical Society 
 
-* [Freedom on the Move](http://freedomonthemove.org)  
-(Requires free log in.)    
+* [Freedom on the Move](http://app.freedomonthemove.org)  
 Ed Baptist & Team
 
 * [Shakespeare and Company: Recreating the world of the Lost Generation in interwar Paris](https://shakespeareandco.princeton.edu/)  
