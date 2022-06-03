@@ -27,7 +27,7 @@ From the [list of projects](https://github.com/cornell-colab/SGFDH-2022/blob/mai
 
 ### After the Session: Reflection Post
 
-After we've met, post a short reflection on the 2021 Fellows Discussion Board. Address any of these questions:  
+After we've met, post a short reflection on the 2022 Fellows Discussion Board. Address any of these questions:  
 
 * Think about the data (or sources) that will underlie your own project. What issues do you foresee you may need to address as you assemble, process, analyze, and present your data?
 * What are some factors that are important to the success of a digital project that you want to replicate in your own project?  
