@@ -66,12 +66,8 @@ Melanie Walsh & Maria Antoniak
 
 * [Textual Geographies](https://txtgeo.net/)  
 Matthew Wilkens & Team
- 
-* [Assessing Language Patterns: A Look at Texas Newspapers, 1829-2008](http://language.mappingtexts.org/)  
-A Collaboration of The Texas Digital Newspaper Program, University of North Texas &
-The Bill Lane Center for the American West, Stanford University
 
-* [*Vogue* N-gram Search](http://bookworm.library.yale.edu/) & [Topic Modelling *Vogue*](http://dh.library.yale.edu/projects/vogue/topics/), part of the larger [Robots Reading Vogue](http://dh.library.yale.edu/projects/vogue/) project.  
+* [Topic Modelling *Vogue*](http://dh.library.yale.edu/projects/vogue/topics/), part of the larger [Robots Reading Vogue](http://dh.library.yale.edu/projects/vogue/) project.  
 Lindsay King, Peter Leonard, & Team
 
 * [Viral Texts](https://viraltexts.org/)  
@@ -81,9 +77,6 @@ Ryan Cordell, David A. Smith & Team
 
 * [Photogrammar](http://photogrammar.yale.edu/) (Photos taken by U.S. Farm Security Administration and Office of War Information, 1935-1945)  
 Laura Wexler, Lauren Tilton, Taylor Arnold, & Team
-
-* [Library of Congress Colors](https://loc-colors.glitch.me/)  
-Laura Wrubel
 
 * [*Vogue* Covers in Colormetric Space](http://dh.library.yale.edu/projects/vogue/colormetricspace/) and [Averaging Covers in *Vogue*](http://dh.library.yale.edu/projects/vogue/coveraverages/), part of the larger [Robots Reading Vogue](http://dh.library.yale.edu/projects/vogue/) project.  
 Lindsay King, Peter Leonard, & Team
