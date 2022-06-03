@@ -127,7 +127,10 @@ Ama Bemma Adwetewa-Badu (Cornell Literatures in English)
 * [Editorial Networks of the Antebellum African American Press](http://jim-casey.com/enap/)  
 Jim Casey (University of Delaware English)
 
-### Primary Source Curation
+### Digital Collections, Digital Exhibits, Digital Publishing
+
+* [Revisualize Archives: Visualizing Joy in 19th-century Studio Portraiture](http://revisualizearchives.com/)
+Victoria Baugh, (Cornell Literatures in English)
 
 * [Periodical Poets](http://periodicalpoets.com/)  
 Charline Jao (Cornell Literatures in English)
