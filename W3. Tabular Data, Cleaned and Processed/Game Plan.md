@@ -2,7 +2,7 @@
   
 ### Before the Session
 
-* **Download and Install** [OpenRefine 3.4.1](https://openrefine.org/download.html)  
+* **Download and Install** [OpenRefine 3.5.2](https://openrefine.org/download.html)  
 Email Eliza with any problems or questions.
 
 * **Download the dataset Eastern_State_Admission_Book.csv**  
