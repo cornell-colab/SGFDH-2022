@@ -1,4 +1,4 @@
-##Publishing Humanities Data  
+## Publishing Humanities Data  
 
 [Research Data Journal for Humanities and Social Sciences](https://brill.com/view/journals/rdj/rdj-overview.xml?contents=journaltoc)  
 
