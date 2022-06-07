@@ -13,11 +13,10 @@ Email Eliza with any problems or questions.
 * **Read** Davis, H. (2019). "[A Dataset is a Worldview](https://towardsdatascience.com/a-dataset-is-a-worldview-5328216dd44d)," a blog post on *Towards Data Science*, a *Medium* vertical.  
 This short post is about datasets used in machine learning. But the idea that a dataset reflects a worldview is just as relevant to your creation of metadata schema as it is to considering the data used in machine learning, and it should be good food for thought now as well as later.
 
-* **Read** Onouha, M. (2016). "[On Missing Datasets](https://github.com/MimiOnuoha/missing-datasets)," documentation of a mixed media installation. And **View** [the photos of the installation on the artist's website](https://mimionuoha.com/the-library-of-missing-datasets).
+* **Read** Onouha, M. (2016). "[On Missing Datasets](https://github.com/MimiOnuoha/missing-datasets)," documentation of a mixed media installation. And **View** [the photos of the installation on the artist's website](https://mimionuoha.com/the-library-of-missing-datasets).  
 
-* **Start Reading** Drucker, J. (2011) [Humanities Approaches to Graphical Display](http://www.digitalhumanities.org//dhq/vol/5/1/000091/000091.html). *Digital Humanities Quarterly* 5(1).
-This article will be relevant to both the Wednesday and Thursday sessions, and you don't need to read it all at once. Feel free to start it today and finish tomorrow, if your time is limited. 
-
+* **Read** D'Ignazio, C. and L. Klein (2020). "[Chapter 3: What Gets Counted Counts](https://data-feminism.mitpress.mit.edu/pub/h1w0nbqp/release/3)," in *Data Feminism*, MIT Press.
+ 
 
 ### During the Session  
 
