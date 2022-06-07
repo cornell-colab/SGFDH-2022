@@ -18,7 +18,8 @@ This short post is about datasets used in machine learning. But the idea that a 
 
 * **Read** Onouha, M. (2016). "[On Missing Datasets](https://github.com/MimiOnuoha/missing-datasets)," documentation of a mixed media installation. And **View** [the photos of the installation on the artist's website](https://mimionuoha.com/the-library-of-missing-datasets).  
 
-* **Read** D'Ignazio, C. and L. Klein (2020). "[Chapter 3: What Gets Counted Counts](https://data-feminism.mitpress.mit.edu/pub/h1w0nbqp/release/3)," in *Data Feminism*, MIT Press.
+* **Read** D'Ignazio, C. and L. Klein (2020). "[Chapter 3: What Gets Counted Counts](https://data-feminism.mitpress.mit.edu/pub/h1w0nbqp/release/3)," in *Data Feminism*, MIT Press.  
+Note the brief discussion of *The Colored Conventions Project,* one of the projects I inclduded on Day 1's list of examples.
  
 
 ### During the Session  
