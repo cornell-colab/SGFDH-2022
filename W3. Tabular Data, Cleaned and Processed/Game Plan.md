@@ -11,7 +11,7 @@ Email Eliza with any problems or questions.
 This dataset is a combination of the two datasets that you just read about. 
 1. Go to the folder for today's session and click on the link to Eastern_State_Admission_Book.csv. A page will open, and you'll see a preview of the data table.  
 2. Toward the upper-right, you'll see a button that says "Raw." RIGHT-click it and choose "Save Link As."  
-3. Choose a place on your machine to store it. Add the file suffix .csv if your machine doesn't automatically add it. Download the file and keep it somewhere you can find it Wednesday morning. 
+3. Choose a place on your machine to store it. Add the file suffix .csv to the file name if your machine doesn't automatically add it. Download the file and keep it somewhere you can find it Wednesday morning. 
 
 * **Read** Davis, H. (2019). "[A Dataset is a Worldview](https://towardsdatascience.com/a-dataset-is-a-worldview-5328216dd44d)," a blog post on *Towards Data Science*, a *Medium* vertical.  
 This short post is about datasets used in machine learning. But the idea that a dataset reflects a worldview is just as relevant to your creation of metadata schema as it is to considering the data used in machine learning, and it should be good food for thought now as well as later.
