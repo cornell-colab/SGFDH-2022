@@ -1,4 +1,4 @@
-### OpenRefine Reference Material  
+## OpenRefine 
 * [Official OpenRefine Documentation and Resources](https://openrefine.org/documentation.html)  
 * [GREL Documentation](https://openrefine.org/documentation.html)  
 * [GREL Recipes](https://github.com/OpenRefine/OpenRefine/wiki/Recipes)  
@@ -12,7 +12,7 @@ A thorough introduction and reference geared toward humanists; the example data 
 * [Cleaning Data with OpenRefine](https://programminghistorian.org/en/lessons/cleaning-data-with-openrefine) by Seth van Hooland, Ruben Verborgh and Max De Wilde  
 A detailed peer-reviewed tutorial published by *The Programming Historian*  
   
-### Pivot Tables Reference Material
+## Pivot Tables
 Pivot tables summarize your dataset. Like OpenRefine, they are a tool for examining your data and getting to know it better, *as well as* to prepare your data for analysis through visualization or other methods. 
 
 They’re especially useful for summarizing categorical data. Think of the columns in your metadata or data that contain text . There’s a good chance these are categorical data (e.g. *property, violence, sober, drinks heavily*). These words represent categories that your individual data items fall into.   
