@@ -9,4 +9,4 @@
 
 2) Move through each section of the following basic lessons in [<i> Python lessons for librarians </i> (Janowiecki, 2020)]:
 * [Lesson 1](https://gitlab.com/mjanowiecki/python-lessons-for-librarians/-/wikis/2.1:-More-conditionals) (homework section is optional!)
-* [Lesson 2]((https://gitlab.com/mjanowiecki/python-lessons-for-librarians/-/wikis/2.1:-More-conditionals) (homework section is optional!)
+* [Lesson 2](https://gitlab.com/mjanowiecki/python-lessons-for-librarians/-/wikis/2.1:-More-conditionals) (homework section is optional!)
