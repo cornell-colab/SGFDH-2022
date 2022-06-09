@@ -1,5 +1,5 @@
 # Resources 
-Explore online articles, books and tutorials to learn more about Python and applying the language to your work.
+Explore books, articles and tutorials to learn more about Python and applying the language to your work.
 
 
 ## Learning more about computers
