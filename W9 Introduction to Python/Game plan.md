@@ -12,6 +12,6 @@ The pre-work for this session has a few steps to it, so if possible, try to do i
   * Make sure to install the variable inspector!
 * [How to Use Jupyter Notebooks](https://melaniewalsh.github.io/Intro-Cultural-Analytics/02-Python/02-How-to-Use-Jupyter-Notebooks.html)
 
-2) Move through each section of the following basic lessons in [<i> Python lessons for librarians </i> (Janowiecki, 2020)]:
+2) Move through each section of the following basic lessons in [<i> Python lessons for librarians </i> (Janowiecki, 2020)](https://gitlab.com/mjanowiecki/python-lessons-for-librarians/-/wikis/home):
 * [Lesson 1](https://gitlab.com/mjanowiecki/python-lessons-for-librarians/-/wikis/2.1:-More-conditionals) (homework section is optional!)
 * [Lesson 2](https://gitlab.com/mjanowiecki/python-lessons-for-librarians/-/wikis/2.1:-More-conditionals) (homework section is optional!)
