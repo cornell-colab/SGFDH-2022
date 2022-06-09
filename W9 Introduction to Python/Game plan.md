@@ -2,7 +2,9 @@
 Instructors: Iliana Burgos (itb23) and Devin Sanera (ds895)
 
 ## Before the session
-The pre-work for this session has a few steps to it, so if possible, try to do it in manageable chunks. Get as far as you can, and reach out if you have any issues along the way. Devin and Iliana will be available at the CoLab during the following times if you'd like to troubleshoot in-person:
+The pre-work for this session contains two parts: installing Python and Jupyter Lab onto your computer, and moving through a few lessons to learn some Python basics. Get as far as you can, and reach out if you have any issues along the way. 
+
+Devin and Iliana will be available at the CoLab during the following times if you'd like to troubleshoot in-person:
 * Friday, June 10, 2-3pm
 * Tuesday, June 14, 2-3pm
 
