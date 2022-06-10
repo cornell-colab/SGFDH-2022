@@ -6,7 +6,7 @@
   
 ### After the Session  
 
-**Spend some time giving love, care, and attention to your data.** Will you work on designing your metadata scheme and actually assembling your dataset? Clean some data with OpenRefine? Start mapping your data or a subset of your data? Begin designing a database and experitmenting with SQL? Choose a path to experiment with.  
+**Spend some time giving care, and attention to your data.** Will you work on designing your metadata scheme and actually assembling your dataset? Clean some data with OpenRefine? Start mapping your data or a subset of your data? Begin designing a database and experitmenting with SQL? Choose a path to experiment with.  
   
 Then, **Post** any questions, confusions, or new options or directions that have come up for you.  
 
