@@ -1,4 +1,5 @@
 # Text analysis
+Instructor: Iliana Burgos
 
 ## Before the session
 
