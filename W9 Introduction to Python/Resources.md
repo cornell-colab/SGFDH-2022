@@ -1,5 +1,8 @@
 # Resources 
-Explore books, articles and tutorials to learn more about Python and applying the language to your work.
+Explore books, articles and tutorials to learn more about Python and the computer languages more generally.
+
+## Learning more Python
+
 
 ## Learning more about computers
 [<i> Code: The Hidden Language of Computer Hardware and Software </i>(Petzold, 2000)](https://newcatalog.library.cornell.edu/catalog/15145858)
