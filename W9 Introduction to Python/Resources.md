@@ -9,7 +9,7 @@ This resource, built with Jupyter Book and intended to engage learners with no p
 Python lessons for librarians (Janowiecki, 2020)
 
 [Python for Everybody: Exploring Data Using Python 3 (Severance, 2009)](http://do1.dr-chuck.com/pythonlearn/EN_us/pythonlearn.pdf)
-* Accompanying lectures on YouTube: “[Python for Everybody - Exploring Information (PY4E)]”(https://www.youtube.com/playlist?list=PLlRFEj9H3Oj7Bp8-DfGpfAfDBiblRfl5p)
+* [Accompanying lectures on YouTube: “[Python for Everybody - Exploring Information (PY4E)”](https://www.youtube.com/playlist?list=PLlRFEj9H3Oj7Bp8-DfGpfAfDBiblRfl5p)
    
 [“Python Tutorial” articles (W3schools)](https://www.w3schools.com/python/default.asp)
 
