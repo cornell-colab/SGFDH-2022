@@ -14,4 +14,4 @@ Walsh, Melanie & Maria Antoniak (April 2021) [The Goodreads "Classics": A Comput
 
 #### Optional
 
-Cottom, Tressie McMillan. “‘47. More Scale, More Questions: Observations from Sociology’ in ‘Debates in the Digital Humanities 2016’ on Debates in the DH Manifold.” Debates in the Digital Humanities, https://dhdebates.gc.cuny.edu/read/untitled/section/55e48b34-543a-41f7-97c9-8c8643bf8844#ch47. Accessed 17 May 2022.
+Cottom, Tressie McMillan. “‘[47. More Scale, More Questions: Observations from Sociology](https://dhdebates.gc.cuny.edu/read/untitled/section/55e48b34-543a-41f7-97c9-8c8643bf8844#ch47)’ in ‘Debates in the Digital Humanities 2016’ on Debates in the DH Manifold.” Debates in the Digital Humanities. Accessed 17 May 2022.
