@@ -13,7 +13,7 @@ If you're not sure where to download one, try these sites:
 
 * [Project Gutenberg](https://www.gutenberg.org/)
 * [Documenting the American South](https://docsouth.unc.edu/docsouthdata/), The University of North Carolina at Chapel Hill
-* A [Wikipedia](https://www.wikipedia.org) page of interest (If you choose this option, please just bring the article URL to class.)
+* A [Wikipedia](https://www.wikipedia.org) page of interest (If you choose this option, please just bring the article's URL to class.)
 
 
 ### Readings
