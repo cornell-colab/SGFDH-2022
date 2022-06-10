@@ -10,5 +10,5 @@
   
 Then, **Post** any questions, confusions, or new options or directions that have come up for you.  
 
-**If you want to try out SQLite, Read** Phillips, I. (2016). "[Fun Times with SQLite! Or, A Beginner's Tutorial to Data Management and Databases with SQL](https://digitalfellows.commons.gc.cuny.edu/2016/04/08/fun-times-with-sqlite-or-a-beginners-tutorial-to-data-management-and-databases-with-sql/)," a blog post on the *CUNY Graduate Center Digital Fellows Blog*. 
+**If you want to try building a database, Read** Phillips, I. (2016). "[Fun Times with SQLite! Or, A Beginner's Tutorial to Data Management and Databases with SQL](https://digitalfellows.commons.gc.cuny.edu/2016/04/08/fun-times-with-sqlite-or-a-beginners-tutorial-to-data-management-and-databases-with-sql/)," a blog post on the *CUNY Graduate Center Digital Fellows Blog*. 
 
