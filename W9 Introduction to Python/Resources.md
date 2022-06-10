@@ -29,8 +29,10 @@ There is [a famous paper](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD
 
 - Vocabulary for text encodings - it's not typically necessary to know the details of each of these, but beware that encodings are often mislabeled, especially when they are very similar to each other.
   - [ASCII](https://en.wikipedia.org/wiki/ASCII)
+  - [The phrase "ANSI character set" has no well-defined meaning](https://en.wikipedia.org/wiki/ANSI_character_set)
   - [ISO/IEC_8859-1](https://en.wikipedia.org/wiki/ISO/IEC_8859-1)
-  - [Windows-1252](https://en.wikipedia.org/wiki/Windows-1252)
+    - [Other versions of ISO 8859](https://en.wikipedia.org/wiki/ISO/IEC_8859)   
+  - [Windows-1252 (sometimes labeled "cp1252")](https://en.wikipedia.org/wiki/Windows-1252)
   - [UTF-8](https://en.wikipedia.org/wiki/UTF-8)
     - [Other Unicode encodings](https://en.wikipedia.org/wiki/Comparison_of_Unicode_encodings)
 
