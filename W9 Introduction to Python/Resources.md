@@ -4,6 +4,7 @@ Explore books, articles and tutorials to learn more about Python and how compute
 ## Learning more Python
 
 [Introduction to Cultural Analytics and Python (Walsh, 2021)](https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html)
+
 This resource, built with Jupyter Book and intended to engage learners with no prior programming experience, is a critical deep-dive into learning what text analysis is and how to perform a variety of text mining and analysis techniques. The workbook features Python code snippets and exercises to put skills into practice. There are also resources for analyzing texts in non-English languages, including Spanish, Chinese, Russian, Portuguese and Danish.
 
 [Programming Historian: Python lessons](https://programminghistorian.org/en/lessons/?topic=python)
