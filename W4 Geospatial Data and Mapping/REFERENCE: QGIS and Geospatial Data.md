@@ -24,7 +24,7 @@ Click "QGIS Documentation v: 3.22" in the lower-left corner of any of the above 
 * [QGIS Tutorials and Tips](https://www.qgistutorials.com/en/#)  
 Ujuval Gandhi has been maintaining and updating this collection of tutorials for a long time, and I really love them.  
 
-### Getting Data from Open Street Map.  
+## Getting Data from Open Street Map.  
 
 [Open Street Map](https://www.openstreetmap.org) (OSM) is a digital web map of the world that anyone can add data to and extract data from -- kind of a cross beween Google Maps and Wikipedia. Any features that you find on this map can be exported, downloaded, and added as a layer to your QGIS Project.  
 
@@ -45,7 +45,7 @@ Now you have a GeoJSON file on your computer that you can add to QGIS just like 
 
 **Examine the data you download** for inconsistencies, missing values, and any other weirdness. You may have data you need to clean up or add to, but in general, it's a great place to start. 
   
-#### Downloading Continent and Boundary Data  
+### Downloading Continent and Boundary Data  
   
 If you're mapping a relatively large area (about the size of New York State, or larger, let's say), the best place to grab data showing boundaries, coastlines, major cities, and major geographic features like large lakes and rivers is:  
 
@@ -54,7 +54,7 @@ If you're mapping a relatively large area (about the size of New York State, or 
 Click the "Get the Data" button, explore the available options, and try downloading some data and adding it to a QGIS project.  
 Natural Earth data is in **shapefile** format. (See notes below.)  
 
-### Geospatial Data Formats  
+## Geospatial Data Formats  
   
 #### Vector Data Formats  
 
