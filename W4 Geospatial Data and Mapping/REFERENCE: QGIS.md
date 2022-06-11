@@ -42,7 +42,25 @@ Use a tool called [Overpass Turbo](https://overpass-turbo.eu/) to extract data. 
   7. Next to the word GeoJSON, click “Download” and Save it wherever on your machine you want to.
  
 Now you have a GeoJSON file on your computer that you can add to QGIS just like you did with the Milwaukee Municipal boundaries (Layer -> Add Layer -> Add Vector Layer).  
+
+**Examine the data you download** for inconsistencies, missing values, and any other weirdness. You may have data you need to clean up or add to, but in general, it's a great place to start. 
   
 #### Downloading Continent and Boundary Data  
   
+If you're mapping a relatively large area (about the size of New York State, or larger, let's say), the best place to grab data showing boundaries, coastlines, major cities, and major geographic features like large lakes and rivers is:  
 
+[Natural Earth Data](https://www.naturalearthdata.com/), created and maintained by a consortium of academic and commercial cartographers. The data at Natural Earth all originated at Open Street Map. But the Natural Earth volunteers have packaged it up nicely and made it easy to use.  
+
+Click the "Get the Data" button, explore the available options, and try downloading some data and adding it to a QGIS project.  
+Natural Earth data is in **shapefile** format. (See notes below.)  
+
+### Geospatial Data Formats  
+  
+#### Vector Data Formats  
+
+Vector data are points, lines, or polygons with precise geographic locations expressed through lat/long coordinates.
+  
+* **GeoJSON**
+* **Shapefile** A shapefile actually consists consists of multiple sub-files, all with the same name and different suffixes. (e.g. .shp, .shx, .dbf, etc.) In your files on your computer, you must keep all of the sub-files together in the same folder.  
+  * When you add a shapefile to QGIS, Select Layer -> Add Layer -> Add Vector Layer. When you select your file from your machine, select just the sub-file with the .shp suffix. QGIS will automatically interpret the rest of the sub-files.  
+ * **GeoPackage**  
