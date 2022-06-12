@@ -32,9 +32,7 @@ I hope you had fun exploring Voyant and considering approaches to computational 
 
 After today's session, please consider:
 * What was your experience in learning Voyant? Was it easy to navigate? 
-* What was one interesting thing you learned about computational text analysis today?
-* How do you think computational text analysis could help you learn about your qualitative data?
-* 
+* What questions emerged as you examined your text file in Voyant? Did a visualization or particular tool interest you?
 
 
 ## Additional resources
@@ -47,7 +45,8 @@ Google nGram
 
 Antconc
 
-David Mimno's tool
+[jsLDA topic modelling tool](https://mimno.infosci.cornell.edu/jsLDA/jslda.html)
+This tool is a graphical user interface (GUI) to an LDA model, written in the programming language JavaScript (hence its name!). It was developed by David Mimno, Associate Professor in the department of of Information Science here at Cornell University. Learn more about the tool in its GitHub documentation pages.
 
 
 ### Readings
