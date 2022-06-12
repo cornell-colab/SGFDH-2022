@@ -24,14 +24,20 @@ Walsh, Melanie & Maria Antoniak (2021) [The Goodreads "Classics": A Computationa
 
 Cottom, Tressie McMillan. (2016) “‘[47. More Scale, More Questions: Observations from Sociology](https://dhdebates.gc.cuny.edu/read/untitled/section/55e48b34-543a-41f7-97c9-8c8643bf8844#ch47)’ in ‘Debates in the Digital Humanities 2016’ on Debates in the DH Manifold.” Debates in the Digital Humanities. 
 
+## During the session
+
+Today, we'll explore the tool Voyant to understand a little more about text analysis. We will discuss:
+* How to clean up your text file before exploring it in Voyant
+* How to create a stopwords list
+* Specific tools within Voyant that help us learn about our texts
 
 ## After the session
 
 ### Reflection
-I hope you had fun exploring Voyant and considering approaches to computational text analysis, even if you don't plan on using these methods for your own project this summer. 
+I hope you had fun considering approaches to computational text analysis, even if you don't plan on using these methods for your own project this summer. 
 
 After today's session, please consider:
-* What was your experience in learning Voyant? Was it easy to navigate? 
+* What was your experience in learning Voyant? What stood out to you as the tool's strengths? What limitations might you have noticed about it?
 * What questions emerged as you examined your text file in Voyant? Did a visualization or particular tool interest you?
 
 
@@ -41,9 +47,9 @@ After today's session, please consider:
 
 ### Tools
 
-Google nGram
+<b> Google nGram  </b>
 
-Antconc
+<b> Antconc  </b>
 
 <b> [jsLDA topic modelling tool](https://mimno.infosci.cornell.edu/jsLDA/jslda.html) </b>
 
@@ -53,3 +59,5 @@ This tool helps make topic modelling more accessible as an exploratory method fo
 
 
 ### Readings
+
+
