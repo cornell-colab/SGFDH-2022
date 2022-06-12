@@ -23,3 +23,31 @@ Walsh, Melanie & Maria Antoniak (2021) [The Goodreads "Classics": A Computationa
 #### Optional
 
 Cottom, Tressie McMillan. (2016) “‘[47. More Scale, More Questions: Observations from Sociology](https://dhdebates.gc.cuny.edu/read/untitled/section/55e48b34-543a-41f7-97c9-8c8643bf8844#ch47)’ in ‘Debates in the Digital Humanities 2016’ on Debates in the DH Manifold.” Debates in the Digital Humanities. 
+
+
+## After the session
+
+### Reflection
+I hope you had fun exploring Voyant and considering approaches to computational text analysis, even if you don't plan on using these methods for your own project this summer. 
+
+After today's session, please consider:
+* What was your experience in learning Voyant? Was it easy to navigate? 
+* What was one interesting thing you learned about computational text analysis today?
+* How do you think computational text analysis could help you learn about your qualitative data?
+* 
+
+
+## Additional resources
+
+### Tutorials and further learning
+
+### Tools
+
+Google nGram
+
+Antconc
+
+David Mimno's tool
+
+
+### Readings
