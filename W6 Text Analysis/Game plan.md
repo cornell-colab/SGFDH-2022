@@ -58,8 +58,6 @@ After today's session, please consider:
 
 ## Additional resources
 
-### Tutorials and further learning
-
 ### Tools
 
 <b> [jsLDA topic modelling tool](https://mimno.infosci.cornell.edu/jsLDA/jslda.html) </b>
@@ -87,7 +85,5 @@ HTRC believes that the following text cleaning and analysis techniques are non-c
 
 The HathiTrust Research Center (HTRC) Analytics portal features several services for facilitating computational text analysis. There is no cost to accessing the HTRC Analytics portal or exporting the results of analyses. This sets HTRC apart from other service providers that restrict access to texts for computational analyses with paywalls to access their content (e.g., ProQuest's TDM Studio or NewsBank's text mining tool). 
 
-
-### Readings
 
 
