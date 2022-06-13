@@ -26,13 +26,15 @@ Cottom, Tressie McMillan. (2016) “‘[47. More Scale, More Questions: Observat
 
 ## During the session
 
-Today, we'll explore the tool Voyant to understand a little more about text analysis. We will discuss:
+Today, we'll explore the open-source web-based tool [Voyant](https://voyant-tools.org) to understand a little more about computational text analysis. 
+
+We will discuss:
 * How to clean up your text file before exploring it in Voyant
 * How to create a stopwords list
 * Specific tools within Voyant that help us learn about our texts
 
 ### Voyant
-Today, we'll use [Voyant](https://voyant-tools.org) to explore approaches to computational text analysis.
+Today, we'll use [Voyant] to explore approaches to computational text analysis. Voyant is a
 
 ### Partner activity
 With the person next to you (or people, since there will be one group of three), explore your texts in Voyant together. Discuss:
