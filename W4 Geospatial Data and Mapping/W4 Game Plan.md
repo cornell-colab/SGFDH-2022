@@ -15,7 +15,7 @@ QGIS is a memory hog. If you don’t have a relatively new laptop (QGIS is too b
   - When QuckMapServices appears in the list of plugins in the middle of the window, select it.
   - Click "Install" in the bottom right of the dialog window.
 
-* **Downlaod** [Milwaukee County Licensed Dogs](https://github.com/cornell-colab/SGFDH-2021/blob/main/W4.%20Geospatial%20Data/2011_MilwaukeeCounty_Dog_Licenses_GEOCODED.csv)  
+* **Download** [Milwaukee County Licensed Dogs](https://github.com/cornell-colab/SGFDH-2021/blob/main/W4.%20Geospatial%20Data/2011_MilwaukeeCounty_Dog_Licenses_GEOCODED.csv)  
   - Right-click (two-finger click on Mac) the **Download** button.
   - Click **Save Link As**
   - Add the file suffix **csv** to the file name.
