@@ -5,7 +5,12 @@ Instructor: Iliana Burgos
 
 ### Reading
 
-Cox, Jordana, and Lauren Tilton. ["The digital public humanities: Giving new arguments and new ways to argue."](https://discovery-ebsco-com.proxy.library.cornell.edu/linkprocessor/plink?id=4d593ebf-f86c-33c1-b572-6d055b321337) Review of Communication 19.2 (2019): 127-146.
+Cox, Jordana, and Lauren Tilton. ["The digital public humanities: Giving new arguments and new ways to argue."](https://discovery-ebsco-com.proxy.library.cornell.edu/linkprocessor/plink?id=4d593ebf-f86c-33c1-b572-6d055b321337) Review of Communication 19.2 (2019): 127-146.  
+  
+**Read** ["The User, the Learner, and the Machines We Make"](https://go-dh.github.io/mincomp/thoughts/2015/05/21/user-vs-learner/) (2015), Alex Gil, from the blog *Minimal Computing.*  
+
+**Optionally Read** ["Minimal Computing in Libraries: An Introduction"](https://go-dh.github.io/mincomp/thoughts/2017/01/15/mincomp-libraries-intro/) (2016), Stewart Varner, from the blog *Minimal Computing.*  
+
 
 ### Optional
 
