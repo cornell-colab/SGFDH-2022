@@ -31,6 +31,9 @@ Today, we'll explore the tool Voyant to understand a little more about text anal
 * How to create a stopwords list
 * Specific tools within Voyant that help us learn about our texts
 
+### Voyant
+Today, we'll use [Voyant](https://voyant-tools.org) to explore approaches to computational text analysis.
+
 ### Partner activity
 With the person next to you (or people, since there will be one group of three), explore your texts in Voyant together. Discuss:
 * What texts are each of you using?
@@ -59,13 +62,30 @@ After today's session, please consider:
 
 <b> Google nGram  </b>
 
-<b> Antconc  </b>
-
 <b> [jsLDA topic modelling tool](https://mimno.infosci.cornell.edu/jsLDA/jslda.html) </b>
 
 This tool helps make topic modelling more accessible as an exploratory method for examining a text corpus. The tool uses Latent Dirilecht Allocation, a statistical model that groups frequently-occurring terms together into clusters. It is written in the programming language JavaScript (hence its name!). 
 
 [jsLDA](https://github.com/mimno/jsLDA) was developed by David Mimno, Associate Professor in the department of of Information Science here at Cornell University. Learn more about the tool in its GitHub documentation pages.
+
+<b> [HathiTrust Digital Library Research Center](https://analytics.hathitrust.org) </b>
+
+The HathiTrust Digital Library is a collaborative repository containing over 17.5 million titles (and counting) digitized by academic and research institutions across the U.S., Canada and Europe. HathiTrust Digital Library specializes in literature and U.S. Government document collections. Cornell University is a member institution, which allows Cornell students, faculty and staff to access books and create collections using their own free personal accounts. Creating a collection with the HathiTrust Digital Library is like creating your own text corpus, which can be used for computational text analysis via the HathiTrust Research Center. Collections can be made public for other researchers to access, as well. 
+
+The HathiTrust Research Center (HTRC) facilitates large-scale computational analysis of the HathiTrust text corpus (including in-copyright materials). Analysis must comply with the Non-Consumptive Use Research Policy.  
+
+HTRC believes that the following text cleaning and analysis techniques are non-consumptive:
+
+* text extraction
+* textual analysis and information extraction
+* linguistic analysis
+* automated translation
+* image analysis
+* file manipulation
+* OCR correction
+* indexing and search
+
+The HathiTrust Research Center (HTRC) Analytics portal features several services for facilitating computational text analysis. There is no cost to accessing the HTRC Analytics portal or exporting the results of analyses. This sets HTRC apart from other service providers that restrict access to texts for computational analyses with paywalls to access their content (e.g., ProQuest's TDM Studio or NewsBank's text mining tool). 
 
 
 ### Readings
