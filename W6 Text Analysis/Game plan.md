@@ -31,6 +31,16 @@ Today, we'll explore the tool Voyant to understand a little more about text anal
 * How to create a stopwords list
 * Specific tools within Voyant that help us learn about our texts
 
+### Partner activity
+With the person next to you (or people, since there will be one group of three), explore your texts in Voyant together. Discuss:
+* What texts are each of you using?
+* Try out a couple visualization tools. Refer to [Voyant's documentation pages](https://voyant-tools.org/docs/#!/guide/start) to learn more about the tools.
+  * What questions do you have as you explore the visualizations?
+  * Are the visualizations effective in helping you learn about the texts?
+  * What stopwords might help or hinder your exploration of the texts?
+  * Overall, do the tools help you learn anything new or unexpected about your texts?
+* What is your experience using the platform? Does any aspect of it give you joy, or perhaps frustrate you?
+
 ## After the session
 
 ### Reflection
