@@ -33,8 +33,6 @@ We will discuss:
 * How to create a stopwords list
 * Specific tools within Voyant that help us learn about our texts
 
-### Voyant
-Today, we'll use [Voyant] to explore approaches to computational text analysis. Voyant is a
 
 ### Partner activity
 With the person next to you (or people, since there will be one group of three), explore your texts in Voyant together. Discuss:
