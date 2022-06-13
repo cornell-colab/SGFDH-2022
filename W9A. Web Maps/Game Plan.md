@@ -1,13 +1,17 @@
-# Publishing webmaps using QGIS2Web and GitHub pages
+# Publishing interactive webmaps
+
+Instructor: Keith Jenkins
 
 In this workshop, we will use several tools to publish a public webmap from an existing QGIS project:
 - QGIS2Web: a QGIS plugin that creates all the HTML/CSS/Javascript/etc. files for the webmap
 - Visual Studio Code: a powerfull code editor that will let us make changes to those files and automatically use Git to send the files to our own GitHub repository
 - GitHub: a website that hosts Git repositories and allows us to create basic websites
 
+## Before the session
+
 Before the workshop, please go ahead and install Visual Studio Code and Git.
 
-## Install Microsoft Visual Studio Code
+### Install Microsoft Visual Studio Code
 
 Microsoft's Visual Studio Code (or "VS Code") is a powerful text editor that can be used for any kind of text-based editing -- it's not just for code!  It integrates directly with Git and GitHub, making it easier for you to track changes to your files, keep a repository with a complete history of those changes, sync it with a copy stored on GitHub, and collaborate with others (or even just your future self).
 
@@ -23,7 +27,7 @@ Microsoft's Visual Studio Code (or "VS Code") is a powerful text editor that can
 The first time you run VS Code, you'll see a "Getting Started" tab that will walk you through various setup and customization options.  Feel free to explore, but you can also just close that tab.  (You can always get back to it later via the "Help" menu.)
 
 
-## Install Git
+### Install Git
 
 You should see five icons along the left side of VS Code.
 - Click the 3rd one, for "Source Control"
@@ -42,4 +46,11 @@ If you don't yet have Git installed, you should see a button to "Download Git fo
   - Accept all other defaults
 - Close and reopen VS Code so that it will now recognize Git on your system
 
+## During the session
+
+under construction...
+
+## After the session
+
+### Reflection
 
