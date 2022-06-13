@@ -60,8 +60,6 @@ After today's session, please consider:
 
 ### Tools
 
-<b> Google nGram  </b>
-
 <b> [jsLDA topic modelling tool](https://mimno.infosci.cornell.edu/jsLDA/jslda.html) </b>
 
 This tool helps make topic modelling more accessible as an exploratory method for examining a text corpus. The tool uses Latent Dirilecht Allocation, a statistical model that groups frequently-occurring terms together into clusters. It is written in the programming language JavaScript (hence its name!). 
