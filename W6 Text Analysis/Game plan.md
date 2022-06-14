@@ -62,7 +62,7 @@ After today's session, please consider:
 
 This tool helps make topic modelling more accessible as an exploratory method for examining a text corpus. The tool uses Latent Dirilecht Allocation, a statistical model that groups frequently-occurring terms together into clusters. It is written in the programming language JavaScript (hence its name!). 
 
-[jsLDA](https://github.com/mimno/jsLDA) was developed by David Mimno, Associate Professor in the department of of Information Science here at Cornell University. Learn more about the tool in its GitHub documentation pages.
+jsLDA was developed by David Mimno, Associate Professor in the department of of Information Science here at Cornell University. Learn more about the tool in its [GitHub documentation pages](https://github.com/mimno/jsLDA).
 
 <b> [HathiTrust Digital Library Research Center](https://analytics.hathitrust.org) </b>
 
