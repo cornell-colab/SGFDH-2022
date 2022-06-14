@@ -26,12 +26,12 @@ The reading for today examines [Photogrammar](https://photogrammar.org/maps) (ba
 
 ### Part II: Digital Public Humanities
 
-Use this Box note to type up responses to the prompts. We'll discuss your responses together.
+Use this [Day 7 Box note](https://cornell.box.com/s/hsc2nz46x220y2z1soe8jghbgd8yy8uu) to type up responses to the prompts. We'll discuss your responses together.
 
 If there is issue accessing the Box note, here are the questions:
 
 * Name one purpose for a digital public humanities project. 
-* From your experience and perspective, what makes an effective digital public humanities project? Consider: What is the project's user interface like? How does the project team engage with public audiences?
+* What do you think makes an effective digital public humanities project? Consider: What is the project's user interface like? How does the project team engage with public audiences?
 * What do you imagine when you think of the word "public"? In the context of your projects, who is the "public" that you'd like to engage?
 * Creating a digital project is only one component of digital public humanities. If you're interested in creating a public DH project, how will the "public" you have in mind get engaged to your digital project?
  
