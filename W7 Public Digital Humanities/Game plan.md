@@ -1,5 +1,4 @@
-# Public Digital Humanities
-Instructor: Iliana Burgos
+# The Internet & Digital Public Humanities
 
 ## Before the session
 
@@ -18,3 +17,19 @@ The reading for today examines [Photogrammar](https://photogrammar.org/maps) (ba
 * Who do you think are the intended audiences for this site? Who is the "public" in this public humanities project?
 * How do the project creators present their data? How do they point people to the data they use?
 * What effect does the project have on you as a user? 
+  
+## During the session  
+
+### Part I: The Internet
+
+[Link to Michelle's presentation on "The Stack."](https://prezi.com/view/KyLPNTtqaHORpCP6K2R6/)  
+
+### Part II: Digital Public Humanities
+
+## After the session 
+
+For your post this afternoon, please consider implications of DH/PH for your own project. Some possible questions to address:  
+* Do you anticipate that your project will include a public component either this summer or later on?  
+* Did the Cox & Tilton piece, or the discussion about it, spark any thoughts of how you might want to frame or think of your own public-facing work, or how you might understand others'?
+* Explore the guide to publishing platforms. Is there one or more you might want to experiment with for your own work this summer? 
+* What do you want to understand better? 
