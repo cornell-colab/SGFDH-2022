@@ -6,4 +6,4 @@ This introductory resource walks learners through different text mining and anal
 
 [Humanities Data Analysis: Case Studies with Python (Karsdorp, 2021)](https://newcatalog.library.cornell.edu/catalog/15277992)
 
-This text features some helpful illustrations of intermediate-level analyses of text data. When we think about statistical examinations of texts, this can be a helpful guide for introducing new concepts with explanations and examples.
+This text features some helpful illustrations of intermediate-level analyses of text data. This can be a helpful guide for introducing statistical examinations of texts with explanations and examples.
