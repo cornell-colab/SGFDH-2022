@@ -26,6 +26,15 @@ The reading for today examines [Photogrammar](https://photogrammar.org/maps) (ba
 
 ### Part II: Digital Public Humanities
 
+In a group, consider the following questions: 
+* What do you imagine when you think of the word "public"? In the context of your projects, who is the "public" that you'd like to engage?
+
+* Creating a digital project is only one component of digital public humanities. How will the "public" you have in mind get connected to your digital project?
+
+* From your own experience and perspective, what would make an effective digital public humanities project?
+ Consider: what should the interface look like? How would "publics" outside the academy learn about the project?
+ 
+ 
 ## After the session 
 
 For your post this afternoon, please consider implications of DH/PH for your own project. Some possible questions to address:  
