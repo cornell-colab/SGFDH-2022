@@ -50,6 +50,23 @@ As Danielle Thé explained, JavaScript is the language that controls all *action
 For an example, 
 Visit [W3 Schools JS Editor: My first JavaScript](https://www.w3schools.com/js/tryit.asp?filename=tryjs_myfirst).  
 Experiment and see if you can read the basics of how the HTML and JS are working together.  
+  
+### Git, GitHub, & GitHub Pages  
+  
+**Watch** the first five minutes of [GitHub for Noobs (2/4)](https://www.youtube.com/watch?v=_ALeswWzpBo)  
+(Apologies for the annoyingness of the guy!)  
+  
+ The video gives you a quick explanation of what Git and GitHub are *usually* used for.  
+ However, during the workshop, we are using a function of GitHub called **GitHub Pages.** GitHub Pages is essentially a free web host for _static_ websites (that is, websites that don't need to call on a database in order to pull up each page).  
+ 
+ We will be assembling HTML, CSS, and JS code, adding it to GitHub, and then using GitHub pages as a *server* to offer the resulting web page to any *client* machine anywhere in the world that wants to access it.  
+   
+ We'll talk more about all this tomorrow!  
+   
+### Keith's Workshop Repository  
+
+If you want to and have time, review the [repository Keith created for the workshop tomorrow.](https://github.com/kgjenkins/webmap-workshop). The "ReadMe" file includes all the instructions for the workshop. 
+
 
 
   
