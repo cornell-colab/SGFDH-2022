@@ -48,7 +48,7 @@ If you don't yet have Git installed, you should see a button to "Download Git fo
 
 ## During the session
 
-under construction...
+See Keith's repository [Webmap Workshop](https://github.com/kgjenkins/webmap-workshop) for in-class instructions.
 
 ## After the session
 
